@@ -40,7 +40,7 @@ Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen
 **(3) The revised quasi-steady aerodynamic model is developed on basis of previous aerodynamic model by additionally introducing the rotational circulation moments and aerodynamic damping moment along the chordwise axis of wing planform.**
 
 
-## All the Figures included in the main text has been listed as following£º
+## All the Figures included in the main text has been listed as following:
 
 ![Fig1_Left_wing_body_model](https://github.com/xijunke/FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
 
