@@ -6,7 +6,7 @@ The figures of the main text are included here.
 
 **Keywords**: *Flapping wing micro aerial vehicle, combined optimization, and nonlinear couple.*
 
-# Here, the figures of the main text are included for the following papers:
+## Here, the figures of the main text are included for the following papers:
 
 [1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen,Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy,Aerospace Science and Technology, 2017(64), 192-203
 https://doi.org/10.1016/j.ast.2017.01.019

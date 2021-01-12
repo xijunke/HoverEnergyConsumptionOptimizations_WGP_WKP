@@ -43,9 +43,9 @@ Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen
 **(3) The revised quasi-steady aerodynamic model is developed on basis of previous aerodynamic model by additionally introducing the rotational circulation moments and aerodynamic damping moment along the chordwise axis of wing planform.**
 
 
-![Fig1_Left_wing_body_model](https://github.com/xijunke/FWMAV_HoverWingbeatDynamics/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
+![Fig1_Left_wing_body_model](https://github.com/xijunke/FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
 
-![Fig1_Right_wing_body_model](https://github.com/xijunke/FWMAV_HoverWingbeatDynamics/blob/main/pic_png/Fig1_Right_wing_body_model_s1_4_13_2.png)
+![Fig1_Right_wing_body_model](https://github.com/xijunke/FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/pic_png/Fig1_Right_wing_body_model_s1_4_13_2.png)
 
 ***Figure 1: Coordinate systems and denition of right-wing Euler angles relative to the stroke plane in right wing root frame (xrryrrzrr) [9, 10].***
 
