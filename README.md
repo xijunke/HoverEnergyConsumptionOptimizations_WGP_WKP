@@ -2,23 +2,29 @@
 
 ## Here, these codes are written for the following papers:
 
-**[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen,Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy,Aerospace Science and Technology, 2017(64), 192-203.https://doi.org/10.1016/j.ast.2017.01.019**
+**[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen,"*Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy*", ***Aerospace Science and Technology***, 2017(64), 192-203. https://doi.org/10.1016/j.ast.2017.01.019. (IF: 4.499)**
 
-**[2] Xijun Ke and Weiping Zhang,Wing geometry and kinematic parameter optimization of flapping wing hovering flight, Applied Sciences, 2016, 6, 390, 1-35.https://doi.org/10.3390/app6120390**
+**[2] Xijun Ke and Weiping Zhang,"*Wing geometry and kinematic parameter optimization of flapping wing hovering flight*", ***Applied Sciences***, 2016, 6,390,1-35. https://doi.org/10.3390/app6120390. (IF: 2.474)**
+
+---------------------------------------------------------------------------------------------------------   
 
 ## The extended quasi-steady aerodynamic and inertial forces/moments model are derived in the following paper:
 
 ### The numerical solution for flapping wing hovering wingbeat dynamics
 
-by Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen, Aerospace Science and Technology
+**by Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen, Aerospace Science and Technology, 110(2021), 106474, (IF: 4.499).**
 
-https://www.sciencedirect.com/science/article/abs/pii/S1270963820311561
+**https://doi.org/10.1016/j.ast.2020.106474**
 
-https://doi.org/10.1016/j.ast.2020.106474
+**https://www.sciencedirect.com/science/article/abs/pii/S1270963820311561**
+
+**Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen,"*The numerical solution for flapping wing hovering wingbeat dynamics*", ***Aerospace Science and Technology***, 110(2021), 106474. https://doi.org/10.1016/j.ast.2020.106474. (IF: 4.499)**
 
 ### The relevant codes for this paper has opened in the following URL:
 
-https://github.com/xijunke/FWMAV_HoverWingbeatDynamics
+**https://github.com/xijunke/FWMAV_HoverWingbeatDynamics**
+
+---------------------------------------------------------------------------------------------------------   
 
 ## Abstract and Keywords
 
@@ -26,6 +32,7 @@ https://github.com/xijunke/FWMAV_HoverWingbeatDynamics
 
 **Keywords**: *Flapping wing micro aerial vehicle, combined optimization, and nonlinear couple.*
 
+---------------------------------------------------------------------------------------------------------   
 
 ## Highlights:
 
@@ -39,6 +46,7 @@ Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen
 
 **(3) The revised quasi-steady aerodynamic model is developed on basis of previous aerodynamic model by additionally introducing the rotational circulation moments and aerodynamic damping moment along the chordwise axis of wing planform.**
 
+---------------------------------------------------------------------------------------------------------   
 
 ## All the Figures included in the main text has been listed as following:
 
