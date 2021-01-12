@@ -9,11 +9,11 @@ https://doi.org/10.1016/j.ast.2017.01.019
 https://doi.org/10.3390/app6120390
 
 
-And the extended quasi-steady aerodynamic and inertial forces/moments model are derived in the following paper:
+## The extended quasi-steady aerodynamic and inertial forces/moments model are derived in the following paper:
 
-## The numerical solution for flapping wing hovering wingbeat dynamics
+### The numerical solution for flapping wing hovering wingbeat dynamics
 
-by Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen£¬Aerospace Science and Technology
+by Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen, Aerospace Science and Technology
 
 https://www.sciencedirect.com/science/article/abs/pii/S1270963820311561
 
@@ -41,4 +41,12 @@ Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen
 **(2) The parametrization description of dynamically scaled wing with non-dimensional conformal feature is firstly developed by including the parametrization of wing leading-edge profiles, the definition of pitch axis and mass properties.**
 
 **(3) The revised quasi-steady aerodynamic model is developed on basis of previous aerodynamic model by additionally introducing the rotational circulation moments and aerodynamic damping moment along the chordwise axis of wing planform.**
+
+
+![Fig1_Left_wing_body_model](https://github.com/xijunke/FWMAV_HoverWingbeatDynamics/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
+
+![Fig1_Right_wing_body_model](https://github.com/xijunke/FWMAV_HoverWingbeatDynamics/blob/main/pic_png/Fig1_Right_wing_body_model_s1_4_13_2.png)
+
+***Figure 1: Coordinate systems and denition of right-wing Euler angles relative to the stroke plane in right wing root frame (xrryrrzrr) [9, 10].***
+
 
