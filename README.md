@@ -1,4 +1,4 @@
-# FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP
+# Wing geometry and kinematic parameters optimization of flapping wing hovering flight for minimum energy
 
 Here, these codes are written for the following papers:
 
@@ -11,7 +11,7 @@ https://doi.org/10.3390/app6120390
 
 And the extended quasi-steady aerodynamic and inertial forces/moments model are derived in the following paper:
 
-# The numerical solution for flapping wing hovering wingbeat dynamics
+## The numerical solution for flapping wing hovering wingbeat dynamics
 
 by Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen£¬Aerospace Science and Technology
 
@@ -30,15 +30,15 @@ https://github.com/xijunke/FWMAV_HoverWingbeatDynamics
 **Keywords**: *Flapping wing micro aerial vehicle, combined optimization, and nonlinear couple.*
 
 
-# Highlights:
+## Highlights:
 
 Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy
 
 Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen
 
-##(1) The combined optimizations of wing geometry and kinematic parameters are firstly performed to minimize the energy of flapping wing hovering flight.##
+**(1) The combined optimizations of wing geometry and kinematic parameters are firstly performed to minimize the energy of flapping wing hovering flight.**
 
-##(2) The parametrization description of dynamically scaled wing with non-dimensional conformal feature is firstly developed by including the parametrization of wing leading-edge profiles, the definition of pitch axis and mass properties.##
+**(2) The parametrization description of dynamically scaled wing with non-dimensional conformal feature is firstly developed by including the parametrization of wing leading-edge profiles, the definition of pitch axis and mass properties.**
 
-##(3) The revised quasi-steady aerodynamic model is developed on basis of previous aerodynamic model by additionally introducing the rotational circulation moments and aerodynamic damping moment along the chordwise axis of wing planform.##
+**(3) The revised quasi-steady aerodynamic model is developed on basis of previous aerodynamic model by additionally introducing the rotational circulation moments and aerodynamic damping moment along the chordwise axis of wing planform.**
 
