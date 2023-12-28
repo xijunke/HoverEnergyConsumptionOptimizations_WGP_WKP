@@ -1,4 +1,4 @@
-﻿# Wing geometry and kinematic parameters optimization of flapping wing hovering flight for minimum energy
+﻿# Wing geometry and kinematic parameters (WGP and WKP) optimization of flapping wing hovering flight for minimum energy
 
 ## Here, these codes are written for the following papers:
 
