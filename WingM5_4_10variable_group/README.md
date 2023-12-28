@@ -8,3 +8,7 @@ hybrid_GA_fminsearch_WingM4_4_2不同于hybrid_GA_fminsearch_WingM4_4_1
 3.功率调用函数和气动力调用函数一起调用同一个函数Aero_F_M_fruitfly——程序较简洁
 4.变量约束区间改小——注意数据的上下限修改——直指频率约束f∈[0,300];
 5.kenimatics_wing_and_AoA_fruitfly_sim输出(1000*9)矩阵
+
+
+![Fig1_Left_wing_body_model](https://github.com/xijunke/FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
+
