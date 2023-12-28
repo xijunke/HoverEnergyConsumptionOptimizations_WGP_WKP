@@ -633,7 +633,7 @@ the "copyright" line and a pointer to where the full notice is found.
 
     <one line to give the program's name and a brief idea of what it does.>
 
-    <FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP> Copyright (C) <2021>  <Dr. Xijun Ke>
+    <HoverEnergyConsumptionOptimizations_WGP_WKP> Copyright (C) <2021>  <Dr. Xijun Ke>
     <Email:> <xijunke@gmail.com>
 
     This program is free software: you can redistribute it and/or modify
@@ -654,7 +654,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP>  Copyright (C) <2021>  <Dr. Xijun Ke>
+    <HoverEnergyConsumptionOptimizations_WGP_WKP>  Copyright (C) <2021>  <Dr. Xijun Ke>
     <Email:> <xijunke@gmail.com>
 
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
