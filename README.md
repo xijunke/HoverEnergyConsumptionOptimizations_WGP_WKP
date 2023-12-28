@@ -18,8 +18,6 @@
 
 Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy
 
-Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen
-
 **(1) The combined optimizations of wing geometry and kinematic parameters are firstly performed to minimize the energy of flapping wing hovering flight.**
 
 **(2) The parametrization description of dynamically scaled wing with non-dimensional conformal feature is firstly developed by including the parametrization of wing leading-edge profiles, the definition of pitch axis and mass properties.**
