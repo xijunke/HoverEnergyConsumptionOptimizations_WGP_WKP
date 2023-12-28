@@ -50,8 +50,8 @@ Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen
 
 ## All the Figures included in the main text has been listed as following:
 
-![Fig1_Left_wing_body_model](https://github.com/xijunke/FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
+![Fig1_Left_wing_body_model](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
 
-![Fig1_Right_wing_body_model](https://github.com/xijunke/FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/pic_png/Fig1_Right_wing_body_model_s1_4_13_2.png)
+![Fig1_Right_wing_body_model](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/pic_png/Fig1_Right_wing_body_model_s1_4_13_2.png)
 
 ***Figure 1: Coordinate systems and definition of right-wing Euler angles relative to the stroke plane in right wing root frame (x_{rr}y_{rr}z_{rr}) [9, 10].***
