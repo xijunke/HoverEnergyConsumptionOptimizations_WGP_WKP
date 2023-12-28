@@ -112,15 +112,11 @@ Aerodynamic force inbcludes normal force to wing plane, which are decomposed int
 
 ## The extended quasi-steady aerodynamic and inertial forces/moments model are derived in the following paper:
 
-### The numerical solution for flapping wing hovering wingbeat dynamics
-
-**by Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen, Aerospace Science and Technology, 110(2021), 106474, (IF: 5.6).**
+**Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen,"*The numerical solution for flapping wing hovering wingbeat dynamics*", ***Aerospace Science and Technology***, 110(2021), 106474. (IF: 5.6)**
 
 **https://doi.org/10.1016/j.ast.2020.106474**
 
 **https://www.sciencedirect.com/science/article/abs/pii/S1270963820311561**
-
-**Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen,"*The numerical solution for flapping wing hovering wingbeat dynamics*", ***Aerospace Science and Technology***, 110(2021), 106474. https://doi.org/10.1016/j.ast.2020.106474. (IF: 5.6)**
 
 ### The relevant codes for this paper has opened in the following URL:
 
