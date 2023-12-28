@@ -1,22 +1,5 @@
 # Optimiaztion calculated results
 
-```
-## aerodynamic_forces_inertia_force_lift_and_thrust
-
-## 沿着扭转轴x_{rw}-axis的气动功率和惯性功率
-
-## 沿着扭转轴x_{rw}-axis和拍打轴z_{rr}-axis的惯性功率
-
-## 沿着扭转轴x-axis的气动力矩
-
-## 沿着拍打轴z_{rr}-axis的气动功率和惯性功率
-
-## 沿着拍打轴z-axis的气动力矩
-
-## 针对最优翅膀形貌参数的翅扭转功率_拍打功率和总功率输出
-```
-
-
 ## aerodynamic_forces_inertia_force_lift_and_thrust
 ![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM6_3_10variable_group_Wang_wingbeatM_variable_C_F_2/force_moment_power_20160316/pic_png/aerodynamic_forces_inertia_force_lift_and_thrust.png)
 
