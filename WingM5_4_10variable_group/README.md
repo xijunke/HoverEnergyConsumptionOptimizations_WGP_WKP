@@ -10,5 +10,8 @@ hybrid_GA_fminsearch_WingM4_4_2不同于hybrid_GA_fminsearch_WingM4_4_1
 5.kenimatics_wing_and_AoA_fruitfly_sim输出(1000*9)矩阵
 
 
-![Fig1_Left_wing_body_model](https://github.com/xijunke/FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
+![pic_forces_for_10_optimized_parameters](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM5_4_10variable_group/pic_forces_for_10_optimized_parameters/Forces_for_optimized_combined_wing_shape_motions_parameters.png)
+
+![pic_power_for_10_optimal_parameters](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM5_4_10variable_group/pic_power_for_10_optimal_parameters/Power_for_optimized_combined_wing_shape_motions_parameters.png)
+
 
