@@ -29,7 +29,7 @@ Aerodynamic force inbcludes normal force to wing plane, which are decomposed int
 
 ## Aerodynamic power and inertial power for pitch and flapping axis and total power output
 
-# Figures for above mentioned aerodynamic force and power,inertial force and power and wing pitch and flapping motion power, and total power output
+# Figures for above mentioned aerodynamic force and power,inertial force and power, and wing pitch and flapping motion power, and total power output
 
 ## aerodynamic_forces_inertia_force_lift_and_thrust
 ![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM6_3_10variable_group_Wang_wingbeatM_fixed_C_F_2/force_moment_power_20160308/pic_png/aerodynamic_forces_inertia_force_lift_and_thrust.png)

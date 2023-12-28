@@ -11,7 +11,7 @@ Aerodynamic force inbcludes normal force to wing plane, which are decomposed int
 
 ## Aerodynamic power and inertial power for pitch and flapping axis and total power output
 
-# Figures for above mentioned aerodynamic force and power,inertial force and power and wing pitch and flapping motion power, and total power output
+# Figures for above mentioned aerodynamic force and power,inertial force and power, and wing pitch and flapping motion power, and total power output
 
 这里的曲线图，由下面最优化获得的参数数据计算而得:
 The optimal parameters is x=[50.6778,1.1762,0.5131,0.8192,2.5339,-1.4619,3.6447,1.8919,1.9353,0];
