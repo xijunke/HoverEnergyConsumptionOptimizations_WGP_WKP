@@ -1,4 +1,4 @@
-# Optimiaztion calculated results are for fixed aerodynamic lift and drag coefficients (C_F) 
+# Optimiaztion calculated results are for aerodynamic lift and drag coefficients (C_F) varying with wing morphology parameters
 
 Notes: Aerodynamic lift and drag coefficients (C_F) vary with wing morphology parameters
 
