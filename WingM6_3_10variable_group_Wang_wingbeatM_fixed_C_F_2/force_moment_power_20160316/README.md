@@ -1,11 +1,39 @@
 # Optimiaztion calculated results
 
-![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM5_4_10variable_group/calculated_results_20150609/pic_png/calculated_results-Result.png)
+```
+## aerodynamic_forces_inertia_force_lift_and_thrust
 
-![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM5_4_10variable_group/calculated_results_20150609/pic_png/1.png)
+## 沿着扭转轴x_{rw}-axis的气动功率和惯性功率
 
-![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM5_4_10variable_group/calculated_results_20150609/pic_png/2.png)
+## 沿着扭转轴x_{rw}-axis和拍打轴z_{rr}-axis的惯性功率
 
-![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM5_4_10variable_group/calculated_results_20150609/pic_png/3.png)
+## 沿着扭转轴x-axis的气动力矩
 
-![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM5_4_10variable_group/calculated_results_20150609/pic_png/4.png)
+## 沿着拍打轴z_{rr}-axis的气动功率和惯性功率
+
+## 沿着拍打轴z-axis的气动力矩
+
+## 针对最优翅膀形貌参数的翅扭转功率_拍打功率和总功率输出
+```
+
+
+## aerodynamic_forces_inertia_force_lift_and_thrust
+![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM6_3_10variable_group_Wang_wingbeatM_fixed_C_F_2/force_moment_power_20160308/pic_png/aerodynamic_forces_inertia_force_lift_and_thrust.png)
+
+## 沿着扭转轴x-axis的气动力矩
+![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM6_3_10variable_group_Wang_wingbeatM_fixed_C_F_2/force_moment_power_20160308/pic_png/%E6%B2%BF%E7%9D%80%E6%89%AD%E8%BD%AC%E8%BD%B4x-axis%E7%9A%84%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9.png)
+
+## 沿着拍打轴z-axis的气动力矩
+![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM6_3_10variable_group_Wang_wingbeatM_fixed_C_F_2/force_moment_power_20160308/pic_png/%E6%B2%BF%E7%9D%80%E6%8B%8D%E6%89%93%E8%BD%B4z-axis%E7%9A%84%E6%B0%94%E5%8A%A8%E5%8A%9B%E7%9F%A9.png)
+
+## 沿着扭转轴x_{rw}-axis的气动功率和惯性功率
+![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM6_3_10variable_group_Wang_wingbeatM_fixed_C_F_2/force_moment_power_20160308/pic_png/%E6%B2%BF%E7%9D%80%E6%89%AD%E8%BD%AC%E8%BD%B4x_%7Brw%7D-axis%E7%9A%84%E6%B0%94%E5%8A%A8%E5%8A%9F%E7%8E%87%E5%92%8C%E6%83%AF%E6%80%A7%E5%8A%9F%E7%8E%87.png)
+
+## 沿着扭转轴x_{rw}-axis和拍打轴z_{rr}-axis的惯性功率
+![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM6_3_10variable_group_Wang_wingbeatM_fixed_C_F_2/force_moment_power_20160308/pic_png/%E6%B2%BF%E7%9D%80%E6%89%AD%E8%BD%AC%E8%BD%B4x_%7Brw%7D-axis%E5%92%8C%E6%8B%8D%E6%89%93%E8%BD%B4z_%7Brr%7D-axis%E7%9A%84%E6%83%AF%E6%80%A7%E5%8A%9F%E7%8E%87.png)
+
+## 沿着拍打轴z_{rr}-axis的气动功率和惯性功率
+![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM6_3_10variable_group_Wang_wingbeatM_fixed_C_F_2/force_moment_power_20160308/pic_png/%E6%B2%BF%E7%9D%80%E6%8B%8D%E6%89%93%E8%BD%B4z_%7Brr%7D-axis%E7%9A%84%E6%B0%94%E5%8A%A8%E5%8A%9F%E7%8E%87%E5%92%8C%E6%83%AF%E6%80%A7%E5%8A%9F%E7%8E%87.png)
+
+## 针对最优翅膀形貌参数的翅扭转功率_拍打功率和总功率输出
+![calculated results](https://github.com/xijunke/HoverEnergyConsumptionOptimizations_WGP_WKP/blob/main/WingM6_3_10variable_group_Wang_wingbeatM_fixed_C_F_2/force_moment_power_20160308/pic_png/%E9%92%88%E5%AF%B9%E6%9C%80%E4%BC%98%E7%BF%85%E8%86%80%E5%BD%A2%E8%B2%8C%E5%8F%82%E6%95%B0%E7%9A%84%E7%BF%85%E6%89%AD%E8%BD%AC%E5%8A%9F%E7%8E%87_%E6%8B%8D%E6%89%93%E5%8A%9F%E7%8E%87%E5%92%8C%E6%80%BB%E5%8A%9F%E7%8E%87%E8%BE%93%E5%87%BA.png)
