@@ -1,7 +1,5 @@
 # Optimiaztion calculated results
 
-这里的曲线图，由下面最优化获得的参数数据计算而得:
-The optimal parameters is x=[50.6778,1.1762,0.5131,0.8192,2.5339,-1.4619,3.6447,1.8919,1.9353,0];
 ```
 ## aerodynamic_forces_inertia_force_lift_and_thrust
 
