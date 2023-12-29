@@ -4,7 +4,8 @@ Notes: Aerodynamic lift and drag coefficients (C_F) do not vary with wing morpho
 
 # 说明注释区别
 
-本文件夹的程序改编自WingM5_4_10variable_group，20160106日之前该论文的一些气动力和力矩以及功率的计算程序有小错误
+本文件夹的程序原始名称为: ***WingM6_3_10variable_group_Wang_wingbeatM_fixed_C_F_2***
+早期改编自WingM5_4_10variable_group，20160106日之前该论文的一些气动力和力矩以及功率的计算程序有小错误
 
 目前改程序已经修改，几近正确
 

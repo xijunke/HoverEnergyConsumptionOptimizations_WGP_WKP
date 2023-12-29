@@ -1,5 +1,7 @@
 ﻿# 说明注释区别
 
+本文件夹的程序原始名称为: ***WingM5_4_10variable_group***
+
 hybrid_GA_fminsearch_WingM4_4_2不同于hybrid_GA_fminsearch_WingM4_4_1
 
 0.hybrid_GA_fminsearch_WingM4_4_2由hybrid_GA_fminsearch_WingM4_4_1进化修改而来;
